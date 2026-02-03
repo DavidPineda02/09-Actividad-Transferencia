@@ -21,6 +21,8 @@
 // o "Publicación eliminada correctamente"
 // o "No se puede eliminar la publicación porque tiene comentarios"
 
+
+
 // Declaración de función asíncrona con arrow function
 // Recibe el ID de la publicación a eliminar
 const deletePostsWithValidation = async (postId) => {

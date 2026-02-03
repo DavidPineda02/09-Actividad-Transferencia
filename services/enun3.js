@@ -20,6 +20,8 @@
 // o Contenido
 // o Número de comentarios asociados
 
+
+
 // Declaración de función asíncrona con arrow function
 // Recibe el ID de la publicación como parámetro
 const getInformationOfPosts = async (postId) => {

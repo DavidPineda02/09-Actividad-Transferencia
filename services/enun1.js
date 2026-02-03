@@ -21,7 +21,6 @@
 // o Nombre del usuario
 // o Cantidad de publicaciones asociadas (puede ser 0)
 
-// Necesito que me documentes todo el código que realices teniendo en cuenta las mejores prácticas de documentación y el async await. Y que no tenga condicionales ternarios. Que sea solo con for y if normales.
 
 
 // Declaración de función asíncrona con arrow function

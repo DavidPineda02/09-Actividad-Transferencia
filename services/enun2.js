@@ -21,6 +21,8 @@
 // o Número de comentarios
 // o Estado: "Con comentarios" o "Sin comentarios"
 
+
+
 // Declaración de función asíncrona con arrow function
 const getPostsWithComments = async () => {
     // Inicia bloque de manejo de errores
